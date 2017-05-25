@@ -6,8 +6,8 @@ from matplotlib import rc
 rc('font', family='DejaVu Sans')
 
 words = ['Wokulski', 'Stanisław', 'Rzecki', 'Izabela', 'Ochocki', 'Łęcki']
-title1 = 'lalka-tom-pierwszy.txt'
-title2 = 'lalka-tom-drugi.txt'
+title1 = 'books/lalka-tom-pierwszy.txt'
+title2 = 'boooks/lalka-tom-drugi.txt'
 
 
 def scatter_plot(x, y, x_line, y_line, names):
